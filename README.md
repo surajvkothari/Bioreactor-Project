@@ -10,7 +10,7 @@ I helped integrate the separate subsystems (Heating, Stirring, and pH) into one 
 The two programs communicated over a two-way serial connection. I used a custom encoding scheme to write data onto the serial. The scheme would allow each program to know what data it was supposed to read and parse.
 
 ## Authors
-Suraj Kothari (Computer Science)
-Arslan Aftab (Computer Science)
-Iason Chaimalas (EEE)
-Arnas Vysniauskas (EEE)
+- Suraj Kothari (Computer Science)
+- Arslan Aftab (Computer Science)
+- Iason Chaimalas (EEE)
+- Arnas Vysniauskas (EEE)
